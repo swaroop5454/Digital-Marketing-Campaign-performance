@@ -1,13 +1,13 @@
 ![bandicam2024-10-3012-31-51-346-ezgif com-gif-maker](https://github.com/user-attachments/assets/6035d698-5dfc-4c1d-a047-50e28c4fcde1)
 
-# Digital-Marketing-Campaign-performance
-Digital Marketing Campaign Performance Report
+# Digital-Marketing-Campaign-Performance
+***Digital Marketing Campaign Performance Report***
 ![image](https://github.com/user-attachments/assets/887d5294-f023-41e1-b6db-244dcca5e374)
 
 
 
 ## A PROJECT ON BUSINESS ANALYTICS
-- Analyze Data      - Create Dashboards      - Data Driven Decisions  
+***- Analyze Data      - Create Dashboards      - Data Driven Decisions*** 
 
 Prepared by  
 Swaroop H  
