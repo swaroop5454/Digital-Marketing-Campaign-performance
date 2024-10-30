@@ -2,10 +2,10 @@
 
 # Digital-Marketing-Campaign-performance
 Digital Marketing Campaign Performance Report
-<img src="https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097" alt="DMMM" width="400" height="300" style="float: left; margin-left: 15px;">
+<img src="https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097" alt="DMMM" width="400" height="300" style="float: left; margin: 0; padding: 0;">
 
 
-***A PROJECT ON BUSINESS ANALYTICS ***
+## *** A PROJECT ON BUSINESS ANALYTICS ***
 - Analyze Data      - Create Dashboards      - Data Driven Decisions  
 
 Prepared by  
@@ -30,6 +30,8 @@ This analysis aims to assist in:
 
 ***Disclaimer:  
 The datasets and reports used may not represent real-world scenarios. The insights and recommendations provided are based solely on the given data. All information is intended to demonstrate my capabilities in Power BI.***  
+
+[Click here to view the Data](https://docs.google.com/spreadsheets/d/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp/edit?usp=sharing&ouid=108807417993334759942&rtpof=true&sd=true)
 
 ---
 
