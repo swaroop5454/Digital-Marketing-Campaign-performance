@@ -11,11 +11,11 @@ Prepared by
 Swaroop H  
 ---
 
-**Objective:**  
+### **Objective:**  
 To develop a performance dashboard that monitors and analyzes the effectiveness of digital marketing campaigns for WPP Group. The dashboard will provide real-time insights into campaign reach, engagement, and ROI, enabling data-driven decisions to optimize ongoing and future campaigns.  
 
 ---
-**Introduction:**  
+### **Introduction:**  
 In today’s competitive digital landscape, businesses rely heavily on data-driven strategies to optimize their marketing efforts. The aim is to leverage digital marketing campaigns across multiple platforms to enhance brand visibility, customer engagement, and return on investment (ROI).  
 
 This report presents an in-depth analysis of the performance data from five key digital marketing campaigns executed on platforms like Google Ads, Facebook, Instagram, Twitter, and LinkedIn. The campaigns span seasonal events such as the Summer Sale, Winter Clearance, Black Friday Deals, and the New Year Campaign, targeting diverse audience segments including young adults, middle-aged individuals, professionals, and general consumers.  
@@ -46,7 +46,7 @@ The dataset contains unique campaigns on specific platforms organized in a tabul
 **Modelling**:  
 Automatically derived relationships are adjusted to remove and replace with necessary information, as shown in the dataset model below.  
 
-https://docs.google.com/spreadsheets/d/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp/edit?usp=sharing&ouid=108807417993334759942&rtpof=true&sd=true  
+
 
 ---
 
@@ -70,20 +70,22 @@ Analysis initiating the Key Performance Index of Digital Marketing Campaign, var
 ---
 ### Cards:
  ![image](https://github.com/user-attachments/assets/044fd574-24ed-4e5d-9d14-b50702830161)
-
+---
 ### Table chart & Clustered Bar Chart & Stacked column Chart:
 ![image](https://github.com/user-attachments/assets/85b46e30-bc9f-4754-bfea-a7b765d59dd1)  ![image](https://github.com/user-attachments/assets/fb6dac30-2bb5-4fb5-8a27-eb897f1dad23)
-
+---
 
 ### Pie chart & Funnel:
  ![image](https://github.com/user-attachments/assets/976f3fa2-d23d-4579-b8cf-05e22a32b9f1)
-
+---
 ### Line Chart:
  ![image](https://github.com/user-attachments/assets/1dc5580f-10c9-4e3e-a17c-d7660ddb3010)
-
+---
 ### Dashboard
 ![image](https://github.com/user-attachments/assets/af4499d8-bbd6-466e-aba6-6e5f45629e21)
-### Analysis  
+
+---
+### **Analysis ** 
 
 #### Key Performance Metrics:  
 1. **CTR (Click-Through Rate)**:  
@@ -151,7 +153,5 @@ Analysis initiating the Key Performance Index of Digital Marketing Campaign, var
 ### Conclusion:  
 The analysis of WPP Group's digital marketing data reveals variations in campaign performance across platforms. Some campaigns demonstrate strong engagement and high ROAS, while others struggle with high CPC and low conversion rates. These insights highlight the importance of optimizing targeting and budget allocation to improve campaign effectiveness. Proper KPI tracking and data management will further enhance future campaigns, maximizing ROI and audience engagement.
 
-
-
- 
+---
 
