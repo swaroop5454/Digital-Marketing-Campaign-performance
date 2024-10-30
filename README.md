@@ -2,18 +2,20 @@
 
 # Digital-Marketing-Campaign-performance
 Digital Marketing Campaign Performance Report
-<img src="https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097" alt="DMMM" width="850" height="650">
+<img src="https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097" alt="DMMM" width="600" height="400">
 
 A PROJECT ON BUSINESS ANALYTICS  
 - Analyze Data      - Create Dashboards      - Data Driven Decisions  
 
 Prepared by  
 Swaroop H  
+---
 
-Objective:  
+**Objective:**  
 To develop a performance dashboard that monitors and analyzes the effectiveness of digital marketing campaigns for WPP Group. The dashboard will provide real-time insights into campaign reach, engagement, and ROI, enabling data-driven decisions to optimize ongoing and future campaigns.  
 
-Introduction:  
+---
+**Introduction:**  
 In today’s competitive digital landscape, businesses rely heavily on data-driven strategies to optimize their marketing efforts. The aim is to leverage digital marketing campaigns across multiple platforms to enhance brand visibility, customer engagement, and return on investment (ROI).  
 
 This report presents an in-depth analysis of the performance data from five key digital marketing campaigns executed on platforms like Google Ads, Facebook, Instagram, Twitter, and LinkedIn. The campaigns span seasonal events such as the Summer Sale, Winter Clearance, Black Friday Deals, and the New Year Campaign, targeting diverse audience segments including young adults, middle-aged individuals, professionals, and general consumers.  
@@ -25,12 +27,12 @@ This analysis aims to assist in:
 - Optimizing ad spend and improving ROI through data-driven insights.  
 - Identifying high-performing channels and areas for refinement.  
 
-Disclaimer:  
-The datasets and reports used may not represent real-world scenarios. The insights and recommendations provided are based solely on the given data. All information is intended to demonstrate my capabilities in Power BI.  
+***Disclaimer:  
+The datasets and reports used may not represent real-world scenarios. The insights and recommendations provided are based solely on the given data. All information is intended to demonstrate my capabilities in Power BI.***  
 
 ---
 
-Data Overview:  
+**Data Overview:**
 The dataset contains unique campaigns on specific platforms organized in a tabular column, purchase history, and responses to past campaigns.
 
 - **Dataset Size**: 5 rows and 15 columns, with each row representing a unique marketing campaign executed on a specific platform.  
@@ -58,7 +60,29 @@ The data visualization report displays the following charts:
 - **Stacked Column Chart**
 
 ---
+### Modelling
+Automatically derived relationships are adjusted to remove and replace them with the necessary information, below is the dataset model.
+ 
+![image](https://github.com/user-attachments/assets/0424483b-dd09-4fd9-93d4-0bd0d656155a)
+---
+### Analysis
+Analysis initiating the Key Performance Index of Digital Marketing Campaign, various business KPIs in digital marketing were measured, including:
+---
+### Cards:
+ ![image](https://github.com/user-attachments/assets/044fd574-24ed-4e5d-9d14-b50702830161)
 
+### Table chart & Clustered Bar Chart & Stacked column Chart:
+![image](https://github.com/user-attachments/assets/85b46e30-bc9f-4754-bfea-a7b765d59dd1)  ![image](https://github.com/user-attachments/assets/fb6dac30-2bb5-4fb5-8a27-eb897f1dad23)
+
+
+### Pie chart & Funnel:
+ ![image](https://github.com/user-attachments/assets/976f3fa2-d23d-4579-b8cf-05e22a32b9f1)
+
+### Line Chart:
+ ![image](https://github.com/user-attachments/assets/1dc5580f-10c9-4e3e-a17c-d7660ddb3010)
+
+### Dashboard
+![image](https://github.com/user-attachments/assets/af4499d8-bbd6-466e-aba6-6e5f45629e21)
 ### Analysis  
 
 #### Key Performance Metrics:  
@@ -126,3 +150,8 @@ The data visualization report displays the following charts:
 
 ### Conclusion:  
 The analysis of WPP Group's digital marketing data reveals variations in campaign performance across platforms. Some campaigns demonstrate strong engagement and high ROAS, while others struggle with high CPC and low conversion rates. These insights highlight the importance of optimizing targeting and budget allocation to improve campaign effectiveness. Proper KPI tracking and data management will further enhance future campaigns, maximizing ROI and audience engagement.
+
+
+
+ 
+
