@@ -1,6 +1,8 @@
+![bandicam2024-10-3012-31-51-346-ezgif com-gif-maker](https://github.com/user-attachments/assets/6035d698-5dfc-4c1d-a047-50e28c4fcde1)
+
 # Digital-Marketing-Campaign-performance
 Digital Marketing Campaign Performance Report
-
+![DMMM](https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097)
 A PROJECT ON BUSINESS ANALYTICS  
 - Analyze Data      - Create Dashboards      - Data Driven Decisions  
 
