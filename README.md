@@ -3,6 +3,8 @@
 # Digital-Marketing-Campaign-performance
 Digital Marketing Campaign Performance Report
 ![DMMM](https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097)
+<img src="https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097" alt="DMMM" width="400" height="300">
+
 A PROJECT ON BUSINESS ANALYTICS  
 - Analyze Data      - Create Dashboards      - Data Driven Decisions  
 
