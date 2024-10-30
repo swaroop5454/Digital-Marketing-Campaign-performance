@@ -2,7 +2,7 @@
 
 # Digital-Marketing-Campaign-performance
 Digital Marketing Campaign Performance Report
-<img src="https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097" alt="DMMM" width="400" height="300" style="float: left; margin-right: 15px;">
+<img src="https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097" alt="DMMM" width="400" height="300" style="float: left; margin-left: 15px;">
 
 
 ***A PROJECT ON BUSINESS ANALYTICS ***
@@ -43,12 +43,10 @@ The dataset contains unique campaigns on specific platforms organized in a tabul
 - **Key Metrics**: Engagement metrics (e.g., CTR, CPC), financial metrics (e.g., ROAS, ad spend), platform-specific performance measures.  
 
 ---
-
-**Modelling**:  
-Automatically derived relationships are adjusted to remove and replace with necessary information, as shown in the dataset model below.  
-
-
-
+### Modelling
+Automatically derived relationships are adjusted to remove and replace them with the necessary information, below is the dataset model.
+ 
+![image](https://github.com/user-attachments/assets/0424483b-dd09-4fd9-93d4-0bd0d656155a)
 ---
 
 **Data Visualization**:  
@@ -60,14 +58,12 @@ The data visualization report displays the following charts:
 - **Pie Chart**  
 - **Stacked Column Chart**
 
+
 ---
-### Modelling
-Automatically derived relationships are adjusted to remove and replace them with the necessary information, below is the dataset model.
- 
-![image](https://github.com/user-attachments/assets/0424483b-dd09-4fd9-93d4-0bd0d656155a)
----
-## Analysis
-Analysis initiating the Key Performance Index of Digital Marketing Campaign, various business KPIs in digital marketing were measured, including:
+
+### Analysis:
+Analysis initiating the Key Performance Index of Digital Marketing Campaign, various business KPIs in digital marketing were measured, including
+
 ---
 ### Cards:
  ![image](https://github.com/user-attachments/assets/044fd574-24ed-4e5d-9d14-b50702830161)
@@ -87,7 +83,8 @@ Analysis initiating the Key Performance Index of Digital Marketing Campaign, var
 
 ---
 ### **Insights from the Data:**
-The initial analysis of digital marketing campaign data reveals several trends and performance indicators, providing key takeaways for campaign optimization across platforms. Below are the preliminary insights derived from the data:
+
+The initial analysis of digital marketing campaign data reveals several trends and performance indicators, providing key takeaways for campaign optimization across platforms. Below are the preliminary insights derived from the data.
 ---
 #### Key Performance Metrics:  
 1. **CTR (Click-Through Rate)**:  
