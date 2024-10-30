@@ -2,9 +2,10 @@
 
 # Digital-Marketing-Campaign-performance
 Digital Marketing Campaign Performance Report
-<img src="https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097" alt="DMMM" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/30337306-d1ef-4999-b7d9-4cfbe61d1097" alt="DMMM" width="400" height="300" style="float: left; margin-right: 15px;">
 
-A PROJECT ON BUSINESS ANALYTICS  
+
+***A PROJECT ON BUSINESS ANALYTICS ***
 - Analyze Data      - Create Dashboards      - Data Driven Decisions  
 
 Prepared by  
@@ -65,7 +66,7 @@ Automatically derived relationships are adjusted to remove and replace them with
  
 ![image](https://github.com/user-attachments/assets/0424483b-dd09-4fd9-93d4-0bd0d656155a)
 ---
-### Analysis
+## Analysis
 Analysis initiating the Key Performance Index of Digital Marketing Campaign, various business KPIs in digital marketing were measured, including:
 ---
 ### Cards:
@@ -85,8 +86,9 @@ Analysis initiating the Key Performance Index of Digital Marketing Campaign, var
 ![image](https://github.com/user-attachments/assets/af4499d8-bbd6-466e-aba6-6e5f45629e21)
 
 ---
-### **Analysis ** 
-
+### **Insights from the Data:**
+The initial analysis of digital marketing campaign data reveals several trends and performance indicators, providing key takeaways for campaign optimization across platforms. Below are the preliminary insights derived from the data:
+---
 #### Key Performance Metrics:  
 1. **CTR (Click-Through Rate)**:  
    - Highest CTR (6.25%) from the Black Friday Deals campaign on Twitter.  
